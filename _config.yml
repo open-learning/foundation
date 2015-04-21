@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title:
-description:
+title: The Open Learning Platform
+description: "[ ˈlərniNG ] NOUN : The acquisition of knowledge or skills through experience, study, or by being taught."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
-url:
+url: http://open-learning.org
 
 # Jekyll configuration
 
@@ -22,15 +22,18 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: Mikael Karon
+  email: mikael@karon.se
+  bio:
+  avatar: mikael.karon.jpeg
+  twitter: mikaelkaron
+  github: mikaelkaron
+  linkedin: mikaelkaron
   google:
-    ad-client: 
-    ad-slot: 
-  bio: 
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-disqus-shortname:
+    plus: mikaelkaron
+    ad-client:
+    ad-slot:
 
+disqus-shortname:
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: Articles
+  url: /articles/
+  excerpt: "Open Learning Articles"
   image:
