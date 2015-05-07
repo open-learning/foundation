@@ -3,6 +3,7 @@ layout: article
 title: "The Deconstruction of the K-12 Teacher"
 excerpt: "When kids can get their lessons from the Internet, what's left for classroom instructors to do?"
 image:
+  teaser: the-deconstruction-of-the-k12-teacher/teaser.jpg
   feature: the-deconstruction-of-the-k12-teacher/feature.jpg
 tags: [vision]
 author: mikaelkaron
