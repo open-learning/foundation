@@ -9,7 +9,6 @@ image:
   creditlink: http://theatlantic.com
 tags: [vision]
 author: mikaelkaron
-share: true
 ---
 
 I came across this in my daily news feed and it always excites me when someone else shares the same (or a similar vision) as me.
