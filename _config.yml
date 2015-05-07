@@ -22,17 +22,11 @@ gems:
 
 # Site owner
 owner:
-  name: Mikael Karon
-  email: mikael@karon.se
-  bio:
-  avatar: mikael.karon.jpg
-  twitter: mikaelkaron
-  github: mikaelkaron
-  linkedin: mikaelkaron
-  google:
-    plus: mikaelkaron
-    ad-client:
-    ad-slot:
+  name: Open Learning
+  email: hello@open-learning.org
+  avatar: open-learning.jpg
+  twitter: open-learning
+  github: open-learning
 
 disqus-shortname:
 
