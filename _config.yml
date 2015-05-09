@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: The Open Learning Platform
-description: "[ ˈlərniNG ] NOUN : The acquisition of knowledge or skills through experience, study, or by being taught."
+title: The Open Learning Foundation
+description: ""
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
-url: http://open-learning.org
+url: http://open-learning.org/foundation
 
 # Jekyll configuration
 
@@ -22,8 +22,8 @@ gems:
 
 # Site owner
 owner:
-  name: Open Learning
-  email: hello@open-learning.org
+  name: Open Learning Foundation
+  email: foundation@open-learning.org
   avatar: bio-photo.jpg
   twitter: open-learning
   github: open-learning
