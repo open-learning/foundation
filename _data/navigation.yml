@@ -7,4 +7,10 @@
 
 - title: Foundation
   url: /
-  excerp: "Open Learning Foundation"
+  excerpt: "Open Learning Foundation"
+  image:
+
+- title: Campus
+  url: /../campus/
+  excerpt: "Open Learning Campus"
+  image:
