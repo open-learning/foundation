@@ -17,9 +17,9 @@ The foundation has these main goals:
 The foundation supports the main [`git4ol`](http://github.com/open-learning/git4ol/) project. In addition to this the foundation also supports the following projects:
 
 - [`git4ol-infrastructure`](http://github.com/open-learning/git4ol-infrastructure/)
+- [`git4ol-id`](https://github.com/open-learning/git4ol-id/)
 - [`git4ol-events`](https://github.com/open-learning/git4ol-events/)
 - [`git4ol-records`](https://github.com/open-learning/git4ol-records/)
-- [`git4ol-id`](https://github.com/open-learning/git4ol-id/)
 - [`git4ol-university`](https://github.com/open-learning/git4ol-university/)
 - [`git4ol-transactions`](https://github.com/open-learning/git4ol-transactions/)
 - [`open-learning` read](http://open-learning.org/read/)
