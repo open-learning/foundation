@@ -16,7 +16,7 @@ All your changes needed for the post (such as media) has to be contained in the 
 
 ## Write
 
-All the websites use [`skinny-bones-jekyll`](https://github.com/mmistakes/skinny-bones-jekyll/) as their engine and there's a [guide[(http://mmistakes.github.io/skinny-bones-jekyll/getting-started/#posts) on how to organize posts.
+All the websites use [`skinny-bones-jekyll`](https://github.com/mmistakes/skinny-bones-jekyll/) as their engine and there's a [guide](http://mmistakes.github.io/skinny-bones-jekyll/getting-started/#posts) on how to organize posts.
 
 ## Submit
 
