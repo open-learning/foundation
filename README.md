@@ -2,7 +2,7 @@
 
 The [`open-learning` foundation](http://open-learning.org/foundation/) is the non-prodit operational arm of the [`open-learning` initiative](http://open-learning.org/).
 
-# Development
+## Development
 
 The foundation supports the main [`git4ol`](http://github.com/open-learning/git4ol/) project. In addition to this the foundation also supports the following projects:
 
@@ -16,7 +16,7 @@ The foundation supports the main [`git4ol`](http://github.com/open-learning/git4
 - [`open-learning` collaborate](http://open-learning.org/collaborate/)
 - [`open-learning` interface](http://open-learning.org/interface/)
 
-# Operations
+## Operations
 
 The foundation operates the public services for [`open-learning` campus](http://open-learning.org/campus/):
 
