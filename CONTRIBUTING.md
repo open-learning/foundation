@@ -2,9 +2,9 @@
 
 This document covers the process we follow to publish new conten on the these `open-learning` websites
 
-- `open-learning' Initiative :[github](https://github.com/open-learninge/open-learning.github.io/] : [web](http://open-learninge.org/)
-- `open-learning' Foundation :[github](https://github.com/open-learninge/foundation/] : [web](http://open-learninge.org/foundation/)
-- `open-learning' Campus :[github](https://github.com/open-learninge/campus/] : [web](http://open-learninge.org/campus/)
+- `open-learning` Initiative : [github](https://github.com/open-learninge/open-learning.github.io/) : [web](http://open-learninge.org/)
+- `open-learning` Foundation : [github](https://github.com/open-learninge/foundation/) : [web](http://open-learninge.org/foundation/)
+- `open-learning` Campus : [github](https://github.com/open-learninge/campus/) : [web](http://open-learninge.org/campus/)
 
 ## Fork
 
