@@ -12,7 +12,7 @@ The foundation has these main goals:
 - Operate the infrastructure needed to provide an public open learning ecosystem via [`open-learning` campus](http://open-learning.org/campus/)
 - Seed the [`open-learning` campus](http://open-learning.org/campus/) with content, teachers and students
 
-## Development
+## Projects
 
 The foundation supports the main [`git4ol`](http://github.com/open-learning/git4ol/) project. In addition to this the foundation also supports the following projects:
 
