@@ -1,6 +1,6 @@
 # Contributing to Open Learning websites
 
-This document covers the process we follow to publish new conten on the these `open-learning` websites
+This document covers the process we follow to publish new content on the these `open-learning` websites
 
 - `open-learning` Initiative : [github](https://github.com/open-learninge/open-learning.github.io/) : [web](http://open-learninge.org/)
 - `open-learning` Foundation : [github](https://github.com/open-learninge/foundation/) : [web](http://open-learninge.org/foundation/)
@@ -8,7 +8,7 @@ This document covers the process we follow to publish new conten on the these `o
 
 ## Fork
 
-Publishing is handled using [GitHub pull-reguests](https://help.github.com/articles/using-pull-requests/) from private [fork](https://help.github.com/articles/fork-a-repo/) so first you have to fork this repository.
+Publishing is handled using [GitHub pull-requests](https://help.github.com/articles/using-pull-requests/) from private [fork](https://help.github.com/articles/fork-a-repo/) so first you have to fork this repository.
 
 ## Branch
 
@@ -16,7 +16,9 @@ All your changes needed for the post (such as media) has to be contained in the 
 
 ## Write
 
-All the websites use [`skinny-bones-jekyll`](https://github.com/mmistakes/skinny-bones-jekyll/) as their engine and there's a [guide](http://mmistakes.github.io/skinny-bones-jekyll/getting-started/#posts) on how to organize posts.
+All the websites use [`skinny-bones-jekyll`](https://github.com/mmistakes/skinny-bones-jekyll/) as their engine.
+
+If you are creating a new post there's a [guide](http://mmistakes.github.io/skinny-bones-jekyll/getting-started/#posts) on how to do that.
 
 ## Submit
 
@@ -33,3 +35,17 @@ Each post should be reviewed by someone in the @open-learning/pr team before get
 ## Merge
 
 Publishing is completed by [merging your work into the targe branch](https://help.github.com/articles/merging-branches/).
+
+## Sync
+
+If changes were made that should be synchronized between the site we do that with `git cherry-pick`:
+
+> **note**
+>
+> In this example we asume out remote is called `initiative`, the remote url is `https://github.com/open-learning/open-learning.github.io.git` and the last commit is a merge with all changes we want
+
+```shell
+git remote add initiative https://github.com/open-learning/open-learning.github.io.git
+git fetch initiative
+git cherry-pick -m 1 FETCH_HEAD
+```
