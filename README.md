@@ -1,6 +1,6 @@
 # Open Learning Foundation
 
-The [`open-learning` foundation](http://open-learning.org/foundation/) is the non-prodit operational arm of the [`open-learning` initiative](http://open-learning.org/).
+The [`open-learning` foundation](http://open-learning.org/foundation/) is the non-profit operational arm of the [`open-learning` initiative](http://open-learning.org/).
 
 ## Goals
 
