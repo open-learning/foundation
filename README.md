@@ -31,8 +31,8 @@ The foundation supports the main [`git4ol`](http://github.com/open-learning/git4
 
 The foundation operates the public services for [`open-learning` campus](http://open-learning.org/campus/):
 
+- [`open-learning` profile](http://open-learning.org/profile/)
 - [`open-learning` pulse](http://open-learning.org/pulse/)
 - [`open-learning` memory](http://open-learning.org/memory/)
-- [`open-learning` profile](http://open-learning.org/profile/)
 - [`open-learning` academy](http://open-learning.org/academy/)
 - [`open-learning` locker](http://open-learning.org/locker/)
