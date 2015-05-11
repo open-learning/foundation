@@ -47,5 +47,10 @@ If changes were made that should be synchronized between the site we do that wit
 ```shell
 git remote add initiative https://github.com/open-learning/open-learning.github.io.git
 git fetch initiative
-git cherry-pick -m 1 FETCH_HEAD
+git cherry-pick -e -m 1 FETCH_HEAD
 ```
+This will open an editor where we can edit the `git` commit message.
+
+> **note**
+>
+> If the commit message contains GitHub ticket references please qualify with `user/repo`
