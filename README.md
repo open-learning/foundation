@@ -1,4 +1,4 @@
-# Open Learning Foundation
+# Open-Learning Foundation
 
 The open-learning foundation is the non-profit operational arm of the [open-learning initiative](http://open-learning.org/).
 
