@@ -20,7 +20,6 @@ The foundation supports the main [`git4ol`](//github.com/open-learning/git4ol) p
 - [`git4ol-records`](//github.com/open-learning/git4ol-records)
 - [`git4ol-university`](//github.com/open-learning/git4ol-university)
 - [`git4ol-transactions`](//github.com/open-learning/git4ol-transactions)
-- [open-learning `read`](//github.com/open-learning/read)
 - [open-learning `tutor`](//github.com/open-learning/tutor)
 - [open-learning `collaborate`](//github.com/open-learning/collaborate)
 - [open-learning `interface`](//github.com/open-learning/interface)
