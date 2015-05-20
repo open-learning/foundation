@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: article
 permalink: /
 title: "Open-Learning Foundation"
 ---
