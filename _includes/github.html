@@ -1,0 +1,18 @@
+{% unless github_display == false %}
+  {% if page.github.text %}
+    {% assign github_text = page.github.text %}
+  {% elsif site.github[github_display] %}
+    {% assign github_text = site.github[github_display] %}
+  {% else %}
+    {% assign github_text = site.github.text %}
+  {% endif %}
+<div class="github-fork-ribbon-wrapper left">
+    <div class="github-fork-ribbon">
+  {% unless github_display == null %}
+      <a href="https://github.com//{{ site.github.organization}}/{{ site.github.project }}/{{ github_display }}/{{ site.github.branch }}/{{ page.path }}">{{ github_text }}</a>
+  {% else %}
+      <a href="https://github.com/{{ site.github.organization }}/{{ site.github.project }}">{{ github_text }}</a>
+  {% endunless %}
+    </div>
+</div>
+{% endunless %}

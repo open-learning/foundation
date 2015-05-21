@@ -19,6 +19,15 @@ highlighter: pygments
 gems:
   - jekyll-sitemap
 
+# GitHub
+
+github:
+    organization: open-learning
+    project: foundation
+    branch: gh-pages
+    text: Visit on GitHub
+    blob: View on GitHub
+    edit: Edit on GitHub
 
 # Site owner
 owner:
