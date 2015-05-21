@@ -36,5 +36,5 @@ The foundation operates the public services for the [open-learning campus](//git
 - [open-learning `pulse`](//github.com/open-learning/pulse)
 - [open-learning `memory`](//github.com/open-learning/memory)
 - [open-learning `academy`](//github.com/open-learning/academy)
-- [open-learning `locker`](//github.com/open-learning/locker)
+- [open-learning `credits`](//github.com/open-learning/credits)
 - [open-learning `bazaar`](//github.com/open-learning/bazaar)
