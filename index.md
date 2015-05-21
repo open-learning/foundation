@@ -8,7 +8,7 @@ The open-learning foundation is the non-profit operational arm of the [open-lear
 # Goals
 
 The foundation has these main goals:
-http://open-learning.or
+
 - Advocate and promote the [open-learning initiative](/)
 - Support the [`git4ol`](//github.com/open-learning/git4ol) project to develop open standards and conventions for delivering distributed and open learning
 - Develop the software and operate the infrastructure for a public open-learning ecosystem via the [open-learning campus](/campus)
