@@ -26,7 +26,7 @@ ghfr:
     project: foundation
     branch: gh-pages
     text: Visit on GitHub
-    blob: View on GitHub
+    blob: Source on GitHub
     edit: Edit on GitHub
 
 # Site owner
