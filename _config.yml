@@ -36,6 +36,8 @@ owner:
   avatar: bio-photo.jpg
   twitter: open-learning
   github: open-learning
+  google:
+    analytics: UA-63395071-1
 
 disqus-shortname:
 
