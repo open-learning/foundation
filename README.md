@@ -17,7 +17,6 @@ The foundation supports the main [`git4ol`](//github.com/open-learning/git4ol) p
 
 - [`git4ol-id`](//github.com/open-learning/git4ol-id)
 - [`git4ol-events`](//github.com/open-learning/git4ol-events)
-- [`git4ol-monitor`](//github.com/open-learning/git4ol-monitor)
 - [`git4ol-records`](//github.com/open-learning/git4ol-records)
 - [`git4ol-university`](//github.com/open-learning/git4ol-university)
 - [`git4ol-transactions`](//github.com/open-learning/git4ol-transactions)
@@ -32,7 +31,6 @@ The foundation operates the public services for the [open-learning campus](//git
 
 - [open-learning `profile`](//github.com/open-learning/profile)
 - [open-learning `pulse`](//github.com/open-learning/pulse)
-- [open-learning `react`](//github.com/open-learning/react)
 - [open-learning `memory`](//github.com/open-learning/memory)
 - [open-learning `academy`](//github.com/open-learning/academy)
 - [open-learning `bazaar`](//github.com/open-learning/bazaar)
